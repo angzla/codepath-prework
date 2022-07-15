@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Don't Forget to Tip*
 
-**Name of your app** is a tip calculator application for iOS.
+**Don't Forget to Tip** is a tip calculator application for iOS.
 
 Submitted by: **Angela Zhou**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
