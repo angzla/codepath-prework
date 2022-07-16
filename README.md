@@ -34,7 +34,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges:
+Tried to implement a settings page but couldn't save default tip percentages. Tried to make bill amount first responder but couldn't link into code. 
 
 ## License
 
